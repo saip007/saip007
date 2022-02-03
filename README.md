@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning **C++, Python, Web Development**<br>
 👯 I’m looking to collaborate on _real time projects to strengthen my resume_<br>
 🤔 I’m looking for help with **api's and database related queries**<br>
-💬 Ask me about basics of **Compititive Programming**<br>
+💬 Ask me about basics of **Competitive Programming**<br>
 ⚡ Fun fact: _I code daily_<br>
 📫 How to reach me : _saip4622@gmail.com<br>_
 ###### Other profiles:
