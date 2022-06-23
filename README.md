@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on ***Portfolio Website*** <br>
+🔭 I’m currently working on ***ToDo*** <br>
 🌱 I’m currently learning **C++, Python, Web Development**<br>
 👯 I’m looking to collaborate on _real time projects to strengthen my resume_<br>
 🤔 I’m looking for help with **api's and database related queries**<br>
