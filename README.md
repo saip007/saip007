@@ -19,7 +19,7 @@
 
 ![Saip's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saip007&theme=buefy&layout=compact&langs_count=10)<br>
 
-<br>
+<hr>
 
 <h3 align="center"><img src="./assets/handshake.gif" width ="50" > Connect with me </h3>
 <p align="center">
