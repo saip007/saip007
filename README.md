@@ -4,25 +4,27 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=electric&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student..&hearts;++;Security+Researcher+@LoginSoft,;Active+Learner/Researcher,;Love+to+code..<3"></a>
 </p>
-
-<h2 align="left"><img src="./assets/about_me.gif" width ="50"> About Me</h2> 
+<p align="center">
+<h2 align="center"><img src="./assets/about_me.gif" width ="40"> About Me</h2> 
 
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at VMEG.
 - 💼 &nbsp; Intern at LoginSoft.
 - 👨🏻‍💻 &nbsp; Learning OpenSource | Coding | Security | Development.. 
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 25px;">Stats
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="20" style="margin-right: 25px;">Stats</h2>
 
-![Saip's github stats](https://github-readme-stats.vercel.app/api?username=saip007&hide=["issues"]&show_icons=true&line_height=30)
+![Saip's github stats](https://github-readme-stats.vercel.app/api?username=saip007&hide=["issues"]&show_icons=true&line_height=20)
 
-![Saip's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saip007&theme=buefy&layout=compact&langs_count=10)
+![Saip's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saip007&theme=buefy&layout=compact&langs_count=10)<br>
 
+<br>
 
-<h3 align="left"><img src="./assets/handshake.gif" width ="50"> Connect with me </h3>
+<h3 align="center"><img src="./assets/handshake.gif" width ="50" > Connect with me </h3>
 <p align="center">
 
- <div align="left"  class="icons-social" style="margin-left: 8px;">
+ <div align="center"  class="icons-social" style="margin-left: 8px;">
 		<a style="margin-left: 8px;" target="_blank" href="https://stackoverflow.com/users/17144130/saip007">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
         <a style="margin-left: 8px;"  target="_blank" href="https://www.linkedin.com/in/saip007/">
@@ -35,7 +37,9 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 8px;" target="_blank" href="https://www.youtube.com/@techdhunia">
 				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>
-      </div>
-</p>
+	 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-saip4622@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saip4622@gmail.com)](mailto:saip4622@gmail.com)
+
+</div>
+</p>
