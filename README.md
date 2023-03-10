@@ -39,7 +39,7 @@
 				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>
 	 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-saip4622@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saip4622@gmail.com)](mailto:saip4622@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-saip4622@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saip4622@outlook.com)](mailto:saip4622@outlook.com)
 
 </div>
 </p>
