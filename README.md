@@ -15,9 +15,9 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="20" style="margin-right: 25px;">Stats</h2>
 
-![Saip's github stats](https://github-readme-stats.vercel.app/api?username=saip007&hide=["issues"]&show_icons=true&line_height=20)
+![Saip's github stats](https://github-readme-stats.vercel.app/api?username=GuND0Wn151&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-![Saip's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saip007&theme=buefy&layout=compact&langs_count=10)<br>
+![Saip's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saip007&layout=compact&theme=tokyonight)<br>
 
 <hr>
 
