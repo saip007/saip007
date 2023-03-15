@@ -7,7 +7,6 @@
 <p align="center">
 <h2 align="center"><img src="./assets/about_me.gif" width ="40"> About Me</h2> 
 
-- 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Computer Science & Engineering at VMEG.
 - 💼 &nbsp; Intern at LoginSoft.
 - 👨🏻‍💻 &nbsp; Learning OpenSource | Coding | Security | Development.. 
