@@ -2,15 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saip007&label=Profile%20views&color=0e75b6&style=flat" alt="saip007" /> </p>
 
-- 🔭 I’m currently working on OpenSource
+- 🔭 I’m currently working on OpenSource Projects.
 
 - 🌱 I’m currently learning Python, Web development
 
 - 🤝 I’m looking for help with AI
 
-- 👨‍💻 All of my projects are available at [saip007](https://github.com/saip007)
+- 👨‍💻 some of my projects are available at [saip007](https://github.com/saip007?tab=repositories)
 
-- 💬 Ask me about Python...
+- 💬 Ask me about _........🤔?_
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -22,14 +22,7 @@
 ![AngularJS](https://img.shields.io/badge/-Angularjs-05122A?style=flat&logo=angularjs)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-<!-- 
-![Other Tech](https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=cryptography)&nbsp;
-![Other Tech](https://img.shields.io/badge/-Tech2-05122A?style=flat&logo=tech2)&nbsp;
-![Other Tech](https://img.shields.io/badge/-Tech3-05122A?style=flat&logo=tech3)&nbsp;
-![Other Tech](https://img.shields.io/badge/-Tech4-05122A?style=flat&logo=tech4)&nbsp;
-![Other Tech](https://img.shields.io/badge/-Tech5-05122A?style=flat&logo=tech5)&nbsp;
-![Other Tech](https://img.shields.io/badge/-Tech6-05122A?style=flat&logo=tech6)
- -->
+
 ### 🤝 Let's Connect
 <p align="center">
 	
