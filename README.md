@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saip007&label=Profile%20views&color=0e75b6&style=flat" alt="saip007" /> </p>
 
-- 🔭 I’m currently working on OpenSource Projects.
+- 🔭 I’m currently working on OpenSource
 
 - 🌱 I’m currently learning Python, Web development
 
