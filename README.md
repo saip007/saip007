@@ -1,6 +1,7 @@
 <h1 align="center">Hello World! This is Sai Prashanth 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saip007&label=Profile%20views&color=0e75b6&style=flat" alt="saip007" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=saip007.saip007" alt="saip007" /> </p>
+
 
 - 🔭 I’m currently working on OpenSource
 
