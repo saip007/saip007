@@ -33,11 +33,12 @@ Here are some of the languages and tools I work with:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:saip007@example.com)
+- [LinkedIn](https://www.linkedin.com/in/saip007)
+- [Twitter](https://twitter.com/saip_007)
+- [Email](mailto:saip4622@gmail.com)
 
 ## 📚 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Phishing_Email_Analysis](https://saip007.medium.com/dissecting-a-phishing-attack-a-step-by-step-analysis-2fa5f96e9bc1)
 <!-- BLOG-POST-LIST:END -->
