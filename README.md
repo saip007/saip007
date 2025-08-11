@@ -41,9 +41,3 @@ I am a Security Researcher with hands-on expertise in open-source software suppl
 - ✍️ Medium: [saip007.medium.com](https://saip007.medium.com/)
 
 ---
-
-## About This Profile
-
-This repository showcases my public research, tools, and findings in the domain of software supply-chain security and malware analysis. For collaborations, research inquiries, or speaking opportunities, please reach out via email or LinkedIn.
-
----
